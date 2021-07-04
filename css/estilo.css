@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cont {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+    background-image: -webkit-linear-gradient(270deg,rgba(150,75,24,1.00) 0%,rgba(177,110,64,1.00) 48.70%,rgba(213,148,103,1.00) 92.75%);
+    background-image: -moz-linear-gradient(270deg,rgba(150,75,24,1.00) 0%,rgba(177,110,64,1.00) 48.70%,rgba(213,148,103,1.00) 92.75%);
+    background-image: -o-linear-gradient(270deg,rgba(150,75,24,1.00) 0%,rgba(177,110,64,1.00) 48.70%,rgba(213,148,103,1.00) 92.75%);
+    background-image: linear-gradient(180deg,rgba(150,75,24,1.00) 0%,rgba(177,110,64,1.00) 48.70%,rgba(213,148,103,1.00) 92.75%);
+}
+#t1 {
+    background-color: #D2ED8B;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-image: url(../imagenes/telab.png);
+}
+#t1 p img {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#t2 {
+    background-color: #36BFA7;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(../imagenes/telab.png);
+}
+#t2 p img {
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
+#t3 {
+    background-color: #29A9BE;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(../imagenes/telab.png);
+}
+#t3 p img {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#t4 {
+    background-color: #3161C6;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(../imagenes/telab.png);
+    text-align: justify;
+}
+#cont #t4 img {
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#t5 {
+    background-image: url(../imagenes/telab.png);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 p img {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#menu {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+    left: auto;
+    right: auto;
+}
+#banner {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    left: 15%;
+    right: 15%;
+}
+#banner {
+    background-image: url(../imagenes/artist.jpg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    left: 15%;
+    right: 15%;
+    width: auto;
+    height: auto;
+}
+#banner {
+    background-image: url(../imagenes/artist.jpg);
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#banner {
+    background-image: url(../imagenes/artist.jpg);
+    padding: 10px;
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#banner {
+    background-image: url(../imagenes/artist.jpg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#menu {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
